@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://resi.ze-robot.com/dl/4k/4k-desktop-wallpaper.-1280%C3%97720.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+h1{
+    color:rgb(255, 0, 255);
+}
+
+#output {
+    background:white;
+    border-radius: 10px;
+    border-top: 10px solid #89CFF0;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
